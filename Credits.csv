@@ -1,4 +1,6 @@
 Referral Policy Since : 03 / 11 / 2021
 Referral_ID,Referral_Credit_Pass_Worth, Individual_Credit_Pass_Worth, Pass No[s],Credit_Expiry
-TERR-BGI-08, 100, 100, [1,3], 31-Dec-2021
-TERR-SM, 0, 100, [2], 31-Dec-2021
+TERR-BGI-08, 100, 100, [1,3], 31-Jan-2022
+TERR-SM -09, 0, 100, [2], 31-Jan-2022
+TERR-AK-14, 90, 0, [4], 15-Feb-2022
+TERR-DL-15, 0, 50, [5], 15-Feb-2022
